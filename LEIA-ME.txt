@@ -1,0 +1,58 @@
+IMAGEM LEVE
+============
+
+Autoria e desenvolvimento: Mr.creative
+Copyright © 2026 Mr.creative. Todos os direitos reservados.
+
+COMO USAR LOCALMENTE
+1. Abra o arquivo index.html com dois cliques.
+2. Escolha uma ou mais imagens JPG, PNG ou WebP.
+3. Ajuste o formato, tamanho máximo e qualidade.
+4. Baixe cada imagem ou todas juntas em um arquivo ZIP.
+
+COMO INSTALAR NO CHROME
+1. Abra chrome://extensions no Google Chrome.
+2. Ative o "Modo do desenvolvedor" no canto superior direito.
+3. Clique em "Carregar sem compactação".
+4. Selecione esta pasta "Imagem-Leve" inteira.
+5. Fixe o Imagem Leve na barra do Chrome, se quiser acesso rápido.
+6. Clique no ícone da extensão para abrir o conversor em uma nova aba.
+
+IMPORTANTE
+- Não apague nem mova separadamente index.html, app.js, background.js ou manifest.json.
+- Para atualizar depois de alterar os arquivos, volte a chrome://extensions e clique em
+  "Atualizar" no cartão do Imagem Leve.
+- Consulte AVISO-DE-AUTORIA.txt para as condições de autoria e uso.
+
+PRIVACIDADE
+Todo o processamento acontece dentro do navegador. As imagens não são
+enviadas para nenhum servidor e a ferramenta funciona sem internet.
+
+DICAS
+- WebP em 84% oferece ótimo equilíbrio para sites e redes sociais.
+- JPEG é uma boa opção quando você precisa de compatibilidade máxima.
+- PNG preserva transparência, mas pode resultar em arquivos maiores.
+- Para não perder qualidade, mantenha marcada a opção de não aumentar
+  imagens menores que o limite.
+
+PUBLICAR NA VERCEL
+Esta pasta já está pronta para ser publicada como site estático. Não existe rota de
+upload: a Vercel entrega somente a interface e todas as imagens são processadas no
+navegador do visitante.
+
+Opção 1 — pelo painel da Vercel
+1. Coloque esta pasta em um repositório GitHub.
+2. No painel da Vercel, clique em "Add New" e depois "Project".
+3. Importe o repositório.
+4. Em Framework Preset, escolha "Other".
+5. Não informe Build Command nem Output Directory.
+6. Clique em "Deploy".
+
+Opção 2 — pela Vercel CLI
+1. Abra o terminal dentro desta pasta.
+2. Execute: npx vercel
+3. Confirme a criação do projeto e teste o endereço de preview.
+4. Para publicar em produção, execute: npx vercel --prod
+
+Depois do deploy, abra o endereço publicado e confirme no rodapé que aparece a
+assinatura "Desenvolvido por Mr.creative".

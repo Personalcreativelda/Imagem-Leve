@@ -1,0 +1,13 @@
+# Arquivos necessários apenas para instalar a extensão Chrome localmente.
+background.js
+manifest.json
+icon16.png
+icon32.png
+icon48.png
+icon128.png
+
+# Documentação local, não necessária para executar o site.
+LEIA-ME.txt
+
+# Metadados locais criados pela Vercel CLI.
+.vercel

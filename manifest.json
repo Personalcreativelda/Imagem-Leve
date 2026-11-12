@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Imagem Leve",
+  "version": "1.1.1",
+  "author": "Mr.creative",
+  "description": "Redimensione e comprima imagens localmente, sem enviar arquivos para a internet.",
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_title": "Abrir Imagem Leve",
+    "default_icon": {
+      "16": "icon16.png",
+      "32": "icon32.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

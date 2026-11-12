@@ -1,0 +1,20 @@
+IMAGEM LEVE — AVISO DE AUTORIA
+==============================
+
+Autoria e desenvolvimento: Mr.creative
+Copyright © 2026 Mr.creative. Todos os direitos reservados.
+
+Este projeto, incluindo seu código, identidade visual, logotipo, textos e interface,
+é identificado como criação de Mr.creative.
+
+Não é autorizada a remoção dos créditos, a atribuição de autoria a terceiros, a
+revenda, republicação, redistribuição ou criação de versões derivadas para fins
+comerciais sem autorização prévia e expressa de Mr.creative.
+
+O fornecimento de uma cópia executável ou dos arquivos necessários para instalação
+não representa cessão de autoria ou transferência automática de direitos.
+
+OBSERVAÇÃO TÉCNICA
+Aplicações HTML e extensões Chrome são executadas no computador do usuário. Por isso,
+seus arquivos podem ser inspecionados e uma cópia local pode ser modificada. Os avisos
+de autoria documentam a titularidade declarada, mas não tornam o código invisível.
